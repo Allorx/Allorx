@@ -7,7 +7,7 @@
 # My name is Alex (Aleksas)
 
 - Below you can find open-source projects that I have developed, including physics papers that I wrote while studying at Royal Holloway University of London.
-- Current work: I am the director of a small indie game dev team, Misty Blue Tech Ltd. Check it out! - https://www.mistyblue.tech/
+- Current work: Data Engineer at the BHF; and I am the director of a small indie game dev team, Misty Blue Tech Ltd. Check it out! - https://www.mistyblue.tech/
 
 ![Alt Text](https://github.com/Allorx/cpp-Projects/blob/master/SDLParticles/sdl.gif)
 

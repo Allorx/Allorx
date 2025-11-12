@@ -7,7 +7,7 @@
 # My name is Alex (Aleksas)
 
 - Below you can find open-source projects that I have developed, including physics papers.
-- Current work: Data Engineer @ British Heart Foundation + Managing Director @ Misty Blue Tech Ltd - https://www.mistyblue.tech/
+- Current work: Integration Lead @ British Heart Foundation + Managing Director @ Misty Blue Tech Ltd - https://www.mistyblue.tech/
 
 ![Alt Text](https://github.com/Allorx/cpp-Projects/blob/master/SDLParticles/sdl.gif)
 
